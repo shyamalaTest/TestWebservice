@@ -1,0 +1,8 @@
+com\byteslounge\spring\tx\dao\impl\UserDAOImpl.class
+com\byteslounge\spring\tx\user\impl\UserManagerImpl.class
+com\byteslounge\spring\tx\model\User.class
+com\byteslounge\spring\tx\CommonRestController.class
+com\byteslounge\spring\tx\dao\UserDAO.class
+com\byteslounge\spring\tx\SpringRestTestClient.class
+com\byteslounge\spring\tx\Main.class
+com\byteslounge\spring\tx\user\UserManager.class
